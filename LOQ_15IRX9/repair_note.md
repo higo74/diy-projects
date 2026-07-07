@@ -60,3 +60,13 @@
 - 計測周辺はカプトンで養生、プローブ先端は絶縁処理
 - 復電は実験電源で 19 V・低電流制限から段階上昇、異常発熱/過電流で即遮断
 - 小型 SMD 実装は十分な予熱＋中温（330–360°C）を基本、交換前後でダイオード特性・導通を必ず確認
+
+## 購入パーツ
+| 型番 | 数量 | 合計 | URL |
+|---|---:|---:|---|
+| BQ24800 AEHQ | 5 | 589円 | https://www.ti.com/product/ja-jp/BQ24800#description |
+| SY8388BRHC | 5 | 437円 | https://datasheet.chipset.com.tr/datasheet/pwm/silergy/sy8388brhc.pdf |
+| BAS40-05W,115 | 10 | 323円 | https://www.marutsu.co.jp/pc/i/24347935/ |
+| TMK212BBJ106KG | 10 | 232円 | https://www.marutsu.co.jp/pc/i/16008846/ |
+| AOZ5317NQI | 1 | 862円 | https://www.aosmd.com/products/power-ics/drmos-smart-power-stages-sps/aoz5317nqi-04 |
+| 合計 | 31 | 2,443円 |  |
